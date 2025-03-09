@@ -321,4 +321,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 Vahe Demirkhanyan 
-Contact: https://www.linkedin.com/in/vahearamian/
+
+(https://www.linkedin.com/in/vahearamian/)
